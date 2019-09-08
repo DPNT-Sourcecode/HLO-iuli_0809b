@@ -6,9 +6,9 @@ namespace BeFaster.App.Solutions.HLO
     {
         public static string Hello(string friendName)
         {
-            friendName = "World";
             return "Hello, "+ friendName+"!";
         }
     }
 }
+
 
