@@ -84,9 +84,10 @@ packages/
 *.iml
 
 # ~~~~~~~~~ Accelerate ~~~~~~~~~
-challenges/*.txt
+**/challenges/*.txt
 record/
 config/credentials.config
 coverage/
 coverage.tdl
 jre/
+
